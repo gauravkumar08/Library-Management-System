@@ -1,1 +1,1 @@
-# Library-Management-System
+The objective of this project is to develop an advanced library management system designed to facilitate book issuance and enable users to browse books by category. This system meticulously manages comprehensive book details, including title, author, ISBN, price, and availability status. Additionally, it provides real-time tracking of the total inventory count. This automated system aims to streamline library operations, offering users an efficient alternative to traditional manual record-keeping methods.
